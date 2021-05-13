@@ -1,8 +1,4 @@
 <h1> Hello, Welcome to Sample DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for IBM Technologies </h2>
-<h2> Deploying on container using ansible playbook with jenkins
-added one more line
-test1
-  test2
-  
-  test final
+<h2> Deploying on container using ansible playbook with jenkins test222
+
